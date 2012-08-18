@@ -1,1 +1,1 @@
-#Web adactable
+#Web adaptable
